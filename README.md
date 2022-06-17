@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya - aka [Aditya0709-alt] 👋 
+# Hi there, I'm Aditya - a.k.a ~~Aditya0709-alt~~ 👋 
 
 
 ## I'm a Programmer, Dog Lover and Much More!!
