@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3 and ml
+- 🥅 2023 Goals: Learn more about web3 and ml
 - ⚡ Fun fact: I love to draw, cook and going for hikes occasionally :)
 
 ### Languages and Tools:
