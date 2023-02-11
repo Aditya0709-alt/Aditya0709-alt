@@ -26,6 +26,7 @@
 
 
 
+## Recent Ac
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -52,6 +53,10 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya0709-alt&show_icons=true&theme=gotham" alt="Aditya0709-alt" />
+
 
 
 
