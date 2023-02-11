@@ -1,9 +1,7 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-
-
 # Hi there, I'm Aditya - a.k.a ~~Aditya0709-alt~~ 👋 
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
  
 ## I'm a Programmer, Dog Lover and Much More!!
 
@@ -56,8 +54,9 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
- 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya0709-alt&show_icons=true&theme=gotham" alt="Aditya0709-alt" />
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya0709-alt&show_icons=true&theme=gotham" alt="Aditya0709-alt" />
 
 
+  
 
