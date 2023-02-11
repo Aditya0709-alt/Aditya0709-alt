@@ -27,7 +27,7 @@
 
 
 
-## Recent Ac
+## Recent Activity
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
