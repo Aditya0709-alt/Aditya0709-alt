@@ -1,7 +1,10 @@
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+
+
 # Hi there, I'm Aditya - a.k.a ~~Aditya0709-alt~~ 👋 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+ 
 ## I'm a Programmer, Dog Lover and Much More!!
 
 - 🌱 I’m currently learning everything 🤣
