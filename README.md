@@ -4,7 +4,7 @@
 </p>
   
  
-## I'm a Programmer, Dog Lover and Much More!!
+## I'm a Programmer, Cynophile and Much More!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
