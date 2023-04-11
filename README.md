@@ -59,7 +59,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aditya0709-alt&show_icons=true&theme=gotham" alt="Aditya0709-alt" />
 
 
-
+[![An image of @aditya0709alt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya0709alt)](https://holopin.io/@aditya0709alt)
 
 
 
